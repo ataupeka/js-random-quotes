@@ -38,7 +38,7 @@ body {
   text-align: center;
   position: fixed;
 }
-.divOfH1{
+.quotes{
     display: flex;
     justify-content: center;
     align-self: start;
