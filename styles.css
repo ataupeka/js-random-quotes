@@ -1,0 +1,54 @@
+body {
+    background-image: url("photo2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ 
+}
+
+#btn {
+ background-color: #fff;
+ border-radius: 20px;
+ padding: 10px;
+ font-size: 30px;
+ margin-top: 50px;
+ text-shadow: 0.5px 0.5px #81B214;
+ border: 1px solid #6ECB63;
+ font-family: 'Raleway', sans-serif;
+ position: fixed;
+}
+
+#par {
+  display: none;
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  background-color: #fff;
+  margin-top: 350px;
+  padding: 20px;
+  border: 2px solid #6ECB63;
+  border-radius: 20px;
+  width: 70%;
+  text-align: center;
+  position: fixed;
+}
+.divOfH1{
+    display: flex;
+    justify-content: center;
+    align-self: start;
+    
+    
+    
+}
+h1{
+    font-family: 'Raleway', sans-serif; 
+    text-shadow: 0.5px 0.5px #3EC70B;
+    font-size: 60px; 
+    color: #6ECB63;
+}
